@@ -4,14 +4,14 @@ Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Alura Newsletter**
+| :label: Tecnologias | html, CSS, Tailwind
+| :rocket: URL         | https://alura-newsletter-ebon.vercel.app/
+| :fire: Desafio     | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://uploaddeimagens.com.br/imagens/eI4RyiM#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto desenvolvido em conjunto com a Alura a fim de desenvolver uma Newsletter utilizando HTML, CSS e Tailwind CSS. No Projeto foram realizadas estilizações e desenvolvimento de animações através do Tailwind
